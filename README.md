@@ -12,3 +12,7 @@ Built with:
 - Streamlit
 - NumPy
 - Matplotlib
+
+## Example Dashboard
+
+![Neural Data Dashboard](dashboard_preview.png)
